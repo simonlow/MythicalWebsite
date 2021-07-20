@@ -1,0 +1,74 @@
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman';
+    width: 30px;
+    height: 100px;
+    background:#ffffff;
+}
+
+h2 {
+    color:midnightblue;
+    text-align: center;
+    font-family: 'Times New Roman';
+    width: 115px;
+    height: 60px;
+    border: medium solid darkolivegreen;
+}
+
+h3 {
+    color:#2f4f4f;
+    font-family: 'Times New Roman';
+    border: thin dotted darkolivegreen;
+    background:#90ee90;
+}
+p {
+    color:black; 
+    background:#f0e68c;
+    font-family: 'Georgia';
+}
+
+.male h2, .female h2 {
+    height: 30px;
+}
+.apollo h2 {
+
+}
+.zeus p{
+    color: navy;
+    background-color:#f0e68c;
+}
+.apollo p {
+    background-color:lightgrey;
+}
+.poseidon p {
+    background-color:lightskyblue;
+}
+.ares p {
+    background-color:salmon;
+}
+.dionysos p {
+    background-color:mediumaquamarine;
+}
+.hermes p {
+    background-color:sandybrown;
+}
+.hephaistos p{
+    background-color:whitesmoke;
+}
+#hera p {
+    background-color:#f08080;
+}
+#athena p {
+    background-color:#e0ffff;
+}
+#artemis p {
+    background-color:lightgrey;
+}
+#demeter p {
+    background-color:linen;
+}
+a :hover {
+    color: red;
+}
+
